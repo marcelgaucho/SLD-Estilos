@@ -356,9 +356,9 @@
           </se:LineSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>Sem pavimentação ou desconhecido 0-5k</se:Name>
+          <se:Name>Sem pavimentaÃ§Ã£o ou desconhecido 0-5k</se:Name>
           <se:Description>
-            <se:Title>Sem pavimentação ou desconhecido 0-5k</se:Title>
+            <se:Title>Sem pavimentaÃ§Ã£o ou desconhecido 0-5k</se:Title>
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:Or>
@@ -392,9 +392,9 @@
           </se:LineSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>Sem pavimentação ou desconhecido 5k-10k</se:Name>
+          <se:Name>Sem pavimentaÃ§Ã£o ou desconhecido 5k-10k</se:Name>
           <se:Description>
-            <se:Title>Sem pavimentação ou desconhecido 5k-10k</se:Title>
+            <se:Title>Sem pavimentaÃ§Ã£o ou desconhecido 5k-10k</se:Title>
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:Or>
@@ -429,9 +429,9 @@
           </se:LineSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>Sem pavimentação ou desconhecido 10k-25k</se:Name>
+          <se:Name>Sem pavimentaÃ§Ã£o ou desconhecido 10k-25k</se:Name>
           <se:Description>
-            <se:Title>Sem pavimentação ou desconhecido 10k-25k</se:Title>
+            <se:Title>Sem pavimentaÃ§Ã£o ou desconhecido 10k-25k</se:Title>
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:Or>
@@ -466,9 +466,9 @@
           </se:LineSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>Sem pavimentação ou desconhecido 25k-50k</se:Name>
+          <se:Name>Sem pavimentaÃ§Ã£o ou desconhecido 25k-50k</se:Name>
           <se:Description>
-            <se:Title>Sem pavimentação ou desconhecido 25k-50k</se:Title>
+            <se:Title>Sem pavimentaÃ§Ã£o ou desconhecido 25k-50k</se:Title>
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:Or>
@@ -503,9 +503,9 @@
           </se:LineSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>Sem pavimentação ou desconhecido 50-+</se:Name>
+          <se:Name>Sem pavimentaÃ§Ã£o ou desconhecido 50-+</se:Name>
           <se:Description>
-            <se:Title>Sem pavimentação ou desconhecido 50-+</se:Title>
+            <se:Title>Sem pavimentaÃ§Ã£o ou desconhecido 50-+</se:Title>
           </se:Description>
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:Or>

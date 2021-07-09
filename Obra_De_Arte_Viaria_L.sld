@@ -6,9 +6,9 @@
       <se:Name>tra_obra_de_arte_viaria_l</se:Name>
       <se:FeatureTypeStyle>
         <se:Rule>
-          <se:Name>Obra de Arte Viária 0-100k</se:Name>
+          <se:Name>Obra de Arte ViÃ¡ria 0-100k</se:Name>
           <se:Description>
-            <se:Title>Obra de Arte Viária 0-100k</se:Title>
+            <se:Title>Obra de Arte ViÃ¡ria 0-100k</se:Title>
           </se:Description>
           <se:MaxScaleDenominator>100000</se:MaxScaleDenominator>
           <se:LineSymbolizer>
@@ -29,9 +29,9 @@
           </se:LineSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>Obra de Arte Viária 100k-+</se:Name>
+          <se:Name>Obra de Arte ViÃ¡ria 100k-+</se:Name>
           <se:Description>
-            <se:Title>Obra de Arte Viária 100k-+</se:Title>
+            <se:Title>Obra de Arte ViÃ¡ria 100k-+</se:Title>
           </se:Description>
           <se:MinScaleDenominator>100000</se:MinScaleDenominator>
           <se:LineSymbolizer>

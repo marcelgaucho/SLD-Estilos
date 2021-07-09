@@ -6,9 +6,9 @@
       <se:Name>tra_tunel_l</se:Name>
       <se:FeatureTypeStyle>
         <se:Rule>
-          <se:Name>Túnel 0-250k</se:Name>
+          <se:Name>TÃºnel 0-250k</se:Name>
           <se:Description>
-            <se:Title>Túnel 0-250k</se:Title>
+            <se:Title>TÃºnel 0-250k</se:Title>
           </se:Description>
           <se:MaxScaleDenominator>250000</se:MaxScaleDenominator>
           <se:LineSymbolizer>
@@ -33,9 +33,9 @@
           </se:LineSymbolizer>
         </se:Rule>
         <se:Rule>
-          <se:Name>Túnel 250k-+</se:Name>
+          <se:Name>TÃºnel 250k-+</se:Name>
           <se:Description>
-            <se:Title>Túnel 250k-+</se:Title>
+            <se:Title>TÃºnel 250k-+</se:Title>
           </se:Description>
           <se:MinScaleDenominator>250000</se:MinScaleDenominator>
           <se:LineSymbolizer>
